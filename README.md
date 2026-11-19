@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Murilo Santana
 
-<!--
-**murilorochasantana-ui/murilorochasantana-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designer e desenvolvedor de Marília, SP. Formado em Design Gráfico (UNIVEM) e me formando em Ciência da Computação (UNIMAR), com pós em Ciência de Dados e IA em andamento.
 
-Here are some ideas to get you started:
+Gosto de levar uma ideia do rascunho até o produto funcionando: desenho no Figma e implemento em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+- **[Puzzle Band](https://github.com/murilorochasantana-ui/Puzzle-Band)**: TCC. Pulseira IoT que ajuda cuidadores a identificar gatilhos de estresse em crianças com TEA. App em Flutter, painel em React, modelo Random Forest em Python e comunicação via MQTT.
+- **[Site Kairu Arquitetura](https://github.com/murilorochasantana-ui/SiteKairu)**: site institucional para cliente, do protótipo no Figma ao código em HTML, CSS e JavaScript. [Ver site](https://murilorochasantana-ui.github.io/SiteKairu/)
+- **[MinePlug](https://github.com/murilorochasantana-ui/PluginMineFactions)**: plugin Java (Paper) para servidor Minecraft, com login, claims, economia, mercado e clãs.
+- **Identidade visual e ilustração**: marcas e ilustrações no [Behance](https://www.behance.net/murilogonalves5).
+
+## Ferramentas
+
+**Design:** Figma, Photoshop, Illustrator, InDesign, Lightroom, Premiere
+
+**Código:** HTML, CSS, JavaScript, React, Flutter/Dart, Python, Java, SQL, Git, MQTT
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/murilosantanadesign/) · [Behance](https://www.behance.net/murilogonalves5) · murilorochasantana@gmail.com
