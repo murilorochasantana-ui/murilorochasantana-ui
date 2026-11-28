@@ -31,7 +31,7 @@ Sou formado em Design Gráfico (UNIVEM) e estou me formando em Ciência da Compu
 
 **Back-end e dados**
 
-<img src="https://skillicons.dev/icons?i=py,java,mysql,sklearn&theme=dark" alt="Python, Java, SQL, scikit-learn" />
+<img src="https://skillicons.dev/icons?i=py,java,mysql,sklearn&theme=dark" alt="Python, Java, SQL" />
 
 **Ferramentas de trabalho**
 
